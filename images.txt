@@ -1,2 +1,2 @@
-suling/openwrt:x86_64
-jellyfin/jellyfin server 10.9.11
+sulinggg/openwrt:x86_64
+jellyfin/jellyfin server v10.9.11
