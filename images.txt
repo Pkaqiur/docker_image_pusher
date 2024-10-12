@@ -1,2 +1,3 @@
 sulinggg/openwrt:x86_64
 jellyfin/jellyfin:latest
+cnk3x/xunlei:latest
