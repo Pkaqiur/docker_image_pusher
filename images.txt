@@ -3,4 +3,4 @@ jellyfin/jellyfin:latest
 cnk3x/xunlei:latest
 linuxserver/jackett
 metatube/metatube-server:latest
-metatube-community/metatube-sdk-go
+metatube-community/metatube-sdk-go:latest
